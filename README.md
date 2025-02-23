@@ -12,7 +12,7 @@
 
 ### **Frontend**  
 - React.js (with Hooks) ⚛️   
-- Tailwind CSS for Styling 🎨  
+- Boorstrap for Styling 🎨  
 - Chart.js for Graphs 📊
 
 ### **Backend**  
